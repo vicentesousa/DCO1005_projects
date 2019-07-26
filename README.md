@@ -18,3 +18,9 @@
 - **Equipe 5:**
    - Membro 1 (Líder)
    - 
+
+## Etapas
+
+### Brainstorm aplicações
+### Tecnologias e habilitadores
+### Projetos/Cronograma/Equipes
