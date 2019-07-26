@@ -23,4 +23,6 @@
 
 ### Brainstorm aplicações
 ### Tecnologias e habilitadores
-### Projetos/Cronograma/Equipes
+### Projetos/Cronograma geral/Alocação de equipes
+### Metas de aprendizado
+### Cronograma de execução
