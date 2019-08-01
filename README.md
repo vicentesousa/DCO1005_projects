@@ -1,7 +1,7 @@
 # DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES 
 
 ## Contexto problemático
-- Aplicação de IoT utilizando modulação AM e FM 
+- Aplicação de Internet das Coisas (IoT) utilizando modulação AM e/ou FM com Arduino
 
 ## Projetos temáticos pra iniciativas de ensino ativo para a disciplina de Princípios de Telecomunicações da UFRN
 
