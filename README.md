@@ -24,7 +24,7 @@
 
 ## Pesquisas
 
-![fig_arduino_pesquisa]()
+![fig_arduino_pesquisa](../figuras/Arduino_pesquisa.png)
 - Quem tem arduino
    - HELLEN OLIVEIRA LUNGA DA SILVA
    - DANIEL BARBOSA DE ASSIS
@@ -36,6 +36,7 @@
    - JOAO VITOR DE SOUZA LOPES 
    - VITOR ARAUJO CAMARA
    - JOAO PAULO NASCIMENTO DOS SANTOS
+
 - Jupyter notebook
 
 
