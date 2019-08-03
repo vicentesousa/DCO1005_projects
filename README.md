@@ -7,8 +7,12 @@
 
 ### Equipes:
 - **Equipe 1:**
-   - Membro 1 (Líder)
-   - 
+   - Membro 1 (Líder): a definir
+   - LUCA LISBOA KRAUSE ARAUJO DOS SANTOS
+   - RODRIGO BRAGA PAIVA
+   - FILIPE DANTAS SIMAS PROCOPIO
+   - FELIPE ROCHA OLIVEIRA
+   - MARIO MARQUES DE LIMA NETO
 - **Equipe 2:**
    - Membro 1 (Líder)
    - 
